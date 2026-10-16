@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0169-majority-element) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yashveer-05/DSA_JOURNEY/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
